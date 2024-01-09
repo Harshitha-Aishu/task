@@ -7,7 +7,7 @@
   <groupId>karl</groupId>
   <artifactId>marl</artifactId>
   <version>1.0</version>
-  <packaging>war</packaging>
+  <packaging>test.war</packaging>
 
   <name>test</name>
   <!-- FIXME change it to the project's website -->
